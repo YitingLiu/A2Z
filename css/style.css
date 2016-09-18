@@ -1,3 +1,4 @@
+/* week 1*/
 body {
 	background-color: #6D8994;
 	font-family: sans-serif;
@@ -79,4 +80,61 @@ h3 {
 	transform: rotateY(180deg);
 }
 
+
+/* week 2  */
+
+textarea {
+    width: 100%;
+    height: 200px;
+    margin: 8px 0;
+    /*box-sizing: border-box;*/
+}
+
+.outputtext {
+	color: rgba(255,255,255,0.9);
+	padding-top:10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 15px;
+
+}
+
+#line1,
+#line2, 
+#line3,
+#line4, 
+#line5, 
+#line6, 
+#line7,
+#line8, 
+#line9,
+#line10, 
+#line11, 
+#line12,
+#line13 {
+	line-height: 20px;	
+	color:#FFC3FF;
+	font-size: 40px;
+	text-transform: capitalize;
+}
+#line1,
+#line6 {
+	padding-top: 20px;
+}
+
+#line1 span,
+#line2 span, 
+#line3 span,
+#line4 span, 
+#line5 span, 
+#line6 span, 
+#line7 span,
+#line8 span, 
+#line9 span,
+#line10 span, 
+#line11 span, 
+#line12 span,
+#line13 span{
+	margin-left: -10px;
+}
 
