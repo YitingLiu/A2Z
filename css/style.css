@@ -36,6 +36,13 @@ h3 {
 	visibility: hidden;
 }
 
+a {
+	padding-top: -50px;
+	font-size: 25px;
+	font-weight:600;
+	color:rgba(255,255,255,0.7);
+}
+
 
 /* entire container, keeps perspective */
 .flip-container {
@@ -137,4 +144,29 @@ textarea {
 #line13 span{
 	margin-left: -10px;
 }
+
+
+
+/*  week3   */
+#w3word {
+	font-size: 30px;
+}
+
+#w3falseButton,
+#w3trueButton {
+	background-color: rgba(255,255,255,0.9);
+}
+#w3falseButton{
+	margin-left: 10px;
+}
+#w3falseButton: hover{
+	background-color: rgba(255,255,255,0.5);
+}
+.w3text {
+	color: rgba(255,255,255,0.9);
+	padding-top:10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 30px;
+	}
 
