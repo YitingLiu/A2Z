@@ -1,0 +1,14 @@
+{
+  "name": "twit-bot",
+  "version": "0.0.1",
+  "description": "This is a Twitter Robot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yiting Liu",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
